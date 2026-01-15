@@ -42,8 +42,8 @@ This project was developed as a **minor RTL design project** without hardware im
 ## ▶️ Simulation
 The design was simulated using **Vivado Simulator**.  
 All read/write operations were verified successfully.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/83fc1820-8da3-4549-8e64-e67d5748d166" />
 
-*(Add waveform screenshots in the `screenshots` folder)*
 
 ---
 
